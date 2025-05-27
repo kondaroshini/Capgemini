@@ -1,1 +1,4 @@
-
+Welcome to file handling, Roshini!!
+there are different operations in it
+let us discuss one by one
+we have read,readline,readlines,write,writelines,append etc.,
